@@ -1,0 +1,7 @@
+C:\Users\T\source\repos\homework\exercise two\bin\Debug\exercise two.exe.config
+C:\Users\T\source\repos\homework\exercise two\bin\Debug\exercise two.exe
+C:\Users\T\source\repos\homework\exercise two\bin\Debug\exercise two.pdb
+C:\Users\T\source\repos\homework\exercise two\obj\Debug\exercise two.csprojAssemblyReference.cache
+C:\Users\T\source\repos\homework\exercise two\obj\Debug\exercise two.csproj.CoreCompileInputs.cache
+C:\Users\T\source\repos\homework\exercise two\obj\Debug\exercise two.exe
+C:\Users\T\source\repos\homework\exercise two\obj\Debug\exercise two.pdb

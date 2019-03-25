@@ -1,0 +1,7 @@
+C:\Users\T\source\repos\homework\exercise three\bin\Debug\exercise three.exe.config
+C:\Users\T\source\repos\homework\exercise three\bin\Debug\exercise three.exe
+C:\Users\T\source\repos\homework\exercise three\bin\Debug\exercise three.pdb
+C:\Users\T\source\repos\homework\exercise three\obj\Debug\exercise three.csprojAssemblyReference.cache
+C:\Users\T\source\repos\homework\exercise three\obj\Debug\exercise three.csproj.CoreCompileInputs.cache
+C:\Users\T\source\repos\homework\exercise three\obj\Debug\exercise three.exe
+C:\Users\T\source\repos\homework\exercise three\obj\Debug\exercise three.pdb
