@@ -1,7 +1,0 @@
-C:\Users\T\source\repos\BreakingNews\BreakingNews\bin\Debug\BreakingNews.exe.config
-C:\Users\T\source\repos\BreakingNews\BreakingNews\bin\Debug\BreakingNews.exe
-C:\Users\T\source\repos\BreakingNews\BreakingNews\bin\Debug\BreakingNews.pdb
-C:\Users\T\source\repos\BreakingNews\BreakingNews\obj\Debug\BreakingNews.csprojAssemblyReference.cache
-C:\Users\T\source\repos\BreakingNews\BreakingNews\obj\Debug\BreakingNews.csproj.CoreCompileInputs.cache
-C:\Users\T\source\repos\BreakingNews\BreakingNews\obj\Debug\BreakingNews.exe
-C:\Users\T\source\repos\BreakingNews\BreakingNews\obj\Debug\BreakingNews.pdb
