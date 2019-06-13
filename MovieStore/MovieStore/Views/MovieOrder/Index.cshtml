@@ -1,0 +1,12 @@
+﻿@model List<MovieOrderModel>
+@{
+    ViewData["Title"] = "Orders";
+}
+<h1>Order Id</h1>
+@foreach(var order in Model)
+{
+<li>
+    @order.OrderID @Html.ActionLink("Details","OrderDetails",new {id=order.OrderID })<br />
+</li>
+}
+

@@ -1,0 +1,32 @@
+﻿@model MovieModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+@using (@Html.BeginRouteForm("SaveRoute", new { Action = "MovieUpdate" }, FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.ID)
+    <div>
+        @Html.LabelFor(m => m.Title)
+        @Html.TextBoxFor(m => m.Title)
+        @Html.ValidationMessageFor(m => m.Title)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.ReleaseDate)
+        @Html.TextBoxFor(m => m.ReleaseDate)
+        @Html.ValidationMessageFor(m => m.ReleaseDate)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Genre)
+        @Html.TextBoxFor(m => m.Genre)
+        @Html.ValidationMessageFor(m => m.Genre)
+    </div>
+    <div>
+        @Html.LabelFor(m=>m.Price)
+        @Html.TextBoxFor(m=>m.Price)
+        @Html.ValidationMessageFor(m=>m.Price)
+    </div>
+
+    <input value="Save" type="submit" />
+}

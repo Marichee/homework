@@ -1,0 +1,12 @@
+﻿@model MovieOrderModel;
+@{
+    ViewData["Title"] = "OrderDetails";
+}
+<h3>@Html.ActionLink("Back", "Index")</h3>
+<div>
+    <strong>Order Id</strong>: @Model.OrderID<br />
+    <strong>Movie</strong>: @Model.Movie<br />
+    <strong>Quantity</strong>: @Model.Quantity<br />
+    <strong>Price</strong>: @Model.Price
+</div>
+

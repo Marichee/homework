@@ -1,0 +1,14 @@
+﻿@model MovieModel
+@{
+    ViewData["Title"] = "Movie Details";
+}
+<h2>Movie Details</h2>
+<h3>@Html.ActionLink("Back","Index")</h3>
+
+<div>
+    <strong>ID</strong>: @Model.ID<br />
+    <strong>Title</strong>: @Model.Title<br />
+    <strong>Genre</strong>: @Model.Genre<br />
+    <strong>Release date</strong>: @Model.ReleaseDate<br />
+    <strong>Price</strong>: @Model.Price $
+</div>

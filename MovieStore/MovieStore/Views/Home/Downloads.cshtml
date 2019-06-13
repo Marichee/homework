@@ -1,0 +1,14 @@
+﻿@model List<string>
+@{
+    ViewData["Title"] = "Downloads";
+}
+
+<h2>Downloads</h2>
+<h3>@Html.ActionLink("Back","Index")</h3>
+@using (@Html.BeginRouteForm("DownloadRoute", new { Action = "Downloading" }, FormMethod.Get))
+{
+    @for (var i = 0; i < Model.Count; i++)
+    {
+        <li>@Model[i].ToString()  @Html.ActionLink("Download", "Download", new { imageName = Model[i].ToString() })</li>
+    }
+}
