@@ -54,9 +54,9 @@ namespace MovieStore.Controllers
 
         public FileResult Download(string imageName)
         {
-            string a = Directory.GetCurrentDirectory();
-            var dirs = a + @"\wwwroot\images\" + imageName;
-            var dir = System.IO.File.ReadAllBytes(dirs);
+            string current = Directory.GetCurrentDirectory();
+            var directory = current + @"\wwwroot\images\" + imageName;
+            var dir = System.IO.File.ReadAllBytes(directory);
             return File(dir, "application/jpg", imageName);
         }
 
