@@ -33,12 +33,9 @@ namespace Exercise._01.Controllers
         [HttpGet("{id}")]
         public ActionResult<object> Get(int id)
         {
-
             try
             {
-
                 return users[id - 1];
-
             }
             catch (ArgumentOutOfRangeException)
             {
