@@ -1,0 +1,14 @@
+C:\Users\T\source\repos\Exercise\Exercise.01\bin\Debug\netcoreapp2.1\Exercise.01.deps.json
+C:\Users\T\source\repos\Exercise\Exercise.01\bin\Debug\netcoreapp2.1\Exercise.01.runtimeconfig.json
+C:\Users\T\source\repos\Exercise\Exercise.01\bin\Debug\netcoreapp2.1\Exercise.01.runtimeconfig.dev.json
+C:\Users\T\source\repos\Exercise\Exercise.01\bin\Debug\netcoreapp2.1\Exercise.01.dll
+C:\Users\T\source\repos\Exercise\Exercise.01\bin\Debug\netcoreapp2.1\Exercise.01.pdb
+C:\Users\T\source\repos\Exercise\Exercise.01\obj\Debug\netcoreapp2.1\Exercise.01.csprojAssemblyReference.cache
+C:\Users\T\source\repos\Exercise\Exercise.01\obj\Debug\netcoreapp2.1\Exercise.01.csproj.CoreCompileInputs.cache
+C:\Users\T\source\repos\Exercise\Exercise.01\obj\Debug\netcoreapp2.1\Exercise.01.RazorAssemblyInfo.cache
+C:\Users\T\source\repos\Exercise\Exercise.01\obj\Debug\netcoreapp2.1\Exercise.01.RazorAssemblyInfo.cs
+C:\Users\T\source\repos\Exercise\Exercise.01\obj\Debug\netcoreapp2.1\Exercise.01.AssemblyInfoInputs.cache
+C:\Users\T\source\repos\Exercise\Exercise.01\obj\Debug\netcoreapp2.1\Exercise.01.AssemblyInfo.cs
+C:\Users\T\source\repos\Exercise\Exercise.01\obj\Debug\netcoreapp2.1\Exercise.01.RazorTargetAssemblyInfo.cache
+C:\Users\T\source\repos\Exercise\Exercise.01\obj\Debug\netcoreapp2.1\Exercise.01.dll
+C:\Users\T\source\repos\Exercise\Exercise.01\obj\Debug\netcoreapp2.1\Exercise.01.pdb
