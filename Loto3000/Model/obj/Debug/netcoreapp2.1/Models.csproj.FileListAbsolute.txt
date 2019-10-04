@@ -1,0 +1,8 @@
+C:\Users\T\source\repos\Loto3000\Model\bin\Debug\netcoreapp2.1\Models.deps.json
+C:\Users\T\source\repos\Loto3000\Model\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\T\source\repos\Loto3000\Model\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\T\source\repos\Loto3000\Model\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\T\source\repos\Loto3000\Model\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+C:\Users\T\source\repos\Loto3000\Model\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+C:\Users\T\source\repos\Loto3000\Model\obj\Debug\netcoreapp2.1\Models.dll
+C:\Users\T\source\repos\Loto3000\Model\obj\Debug\netcoreapp2.1\Models.pdb
